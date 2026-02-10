@@ -46,9 +46,10 @@ I focus on project-based learning, clean code, and real-world application flow.
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=salmanul-faris-k&theme=onedark&include_all_commits=true)
-![](https://nirzak-streak-stats.vercel.app/?user=salmanul-faris-k&theme=onedark)
 
----
+![](https://github-readme-stats.vercel.app/api?username=salmanul-faris-k&show_icons=true&theme=onedark&cache_seconds=1800)
 
-[![](https://visitcount.itsvg.in/api?id=salmanul-faris-k&color=0)](https://visitcount.itsvg.in)
+![](https://streak-stats.demolab.com?user=salmanul-faris-k&theme=onedark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanul-faris-k&layout=compact&theme=onedark)
+
