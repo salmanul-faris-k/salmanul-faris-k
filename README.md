@@ -1,55 +1,106 @@
-# 👋 Hi, I'm Salmanul Faris
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-💻 **MERN Stack Developer** | Frontend & Backend Developer  
-📍 India  
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Salmanul Faris</strong>
+</h1>
 
-Diploma graduate in Computer Engineering with **1 year of hands-on experience**, including a  
-6-month internship at **Luminar Technolab** and 6 months of professional experience at **Zyberads**.
+<h3>MERN Stack Developer | React • Node • MongoDB</h3>
 
-I build **responsive user interfaces** and **RESTful backend services** using  
-**React, Node.js, Express.js, and MongoDB**.  
-I focus on project-based learning, clean code, and real-world application flow.
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-🎯 Currently preparing for **entry-level roles**:
-- MERN Stack Developer  
-- React Developer  
-- Frontend Developer  
-- Backend Developer  
+  <p>
+    I'm a MERN Stack Developer passionate about building scalable, user-friendly, and high-performance web applications.  
+    I specialize in creating responsive frontends and robust backend systems using modern technologies.
+  </p>
+
+  <p>
+    With <strong>1 year of hands-on experience</strong>, including a 6-month internship at <strong>Luminar Technolab</strong> 
+    and 6 months of professional experience at <strong>Zyberads</strong>, I focus on real-world project development and clean coding practices.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:salmanulfaris2706@gmail.com">
+      <img src="https://img.shields.io/badge/📧_salmanulfaris2706@gmail.com-1e1e2e?style=for-the-badge" />
+    </a>
+    <img src="https://img.shields.io/badge/🎯_Open_to_Work_(MERN/Frontend/Backend)-1e1e2e?style=for-the-badge" />
+  </p>
+
+<h3>🌐 Socials</h3>
+  
+<p align="left">
+  <a href="https://www.linkedin.com/in/salmanul-faris-k-/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/salmanul-faris-k">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+  <img src="https://komarev.com/ghpvc/?username=salmanul-faris-k&style=flat-square&color=blue" alt="Profile Visit"/>
+</div>
+
+<br clear="all" />
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salmanul-faris-k-/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salmanulfaris2706@gmail.com)
+## 🛠️ Skills
 
----
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
 
-## 💻 Tech Stack
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+<br/><br/>
 
-### Core
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge)
+</td>
 
-### Frontend & Tools
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge)
-![Render](https://img.shields.io/badge/render-%46E3B7.svg?style=for-the-badge)
+<td width="50%" align="center">
+<h3>📚 Frameworks & Libraries</h3>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<h3>🗄️ Databases</h3>
+
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+<h3>🧰 Tools & Platforms</h3>
+
+<img src="https://skillicons.dev/icons?i=git,vscode,postman,vercel,netlify" />
+
+</td>
+</tr>
+</table>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=salmanul-faris-k&show_icons=true&theme=onedark&cache_seconds=1800)
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=salmanul-faris-k&theme=dark&hide_border=true" alt="Streak" />
+</div>
 
-![](https://streak-stats.demolab.com?user=salmanul-faris-k&theme=onedark)
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanul-faris-k&layout=compact&theme=onedark)
+## 🎯 Career Focus
 
+<p align="center">
+  🚀 Actively seeking opportunities as <br/>
+  <strong>MERN Stack Developer | React Developer | Frontend | Backend</strong>
+</p>
