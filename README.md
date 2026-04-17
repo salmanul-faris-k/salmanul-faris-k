@@ -88,7 +88,19 @@
 </p>
 
 ---
+## 🚀 Live Projects / My Work
 
+Here are some of the real-world applications and websites I have worked on:
+
+* 🌐 **[Grazie](https://www.grazie.in/)** - `MERN Stack`
+* 🌐 **[Sharomi](https://sharomi.in/)** - `React.js`
+* 🌐 **[Treatwell Medcare](https://treatwellmedcare.com/)** - `React.js`
+* 🌐 **[Freakz Family Salon](https://freakzfamilysalon.in/)** - `HTML / CSS / JS`
+* 🌐 **[Happy Trash](https://www.happytrash.in/)** - `HTML / CSS / JS`
+* 🌐 **[Living Space](https://www.livingspace.co.in/)** - `HTML / CSS / JS`
+* 🌐 **[Hometrack Automation](https://hometrackautomation.in/)** - `HTML / CSS / JS`
+
+---
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -104,14 +116,3 @@
   🚀 Actively seeking opportunities as <br/>
   <strong>MERN Stack Developer | React Developer | Frontend | Backend</strong>
 </p>
-iwork link add
-https://sharomi.in/ react
-
-https://freakzfamilysalon.in/ html
-https://www.happytrash.in/ html
-https://www.livingspace.co.in/ html
-https://hometrackautomation.in/ html
-https://treatwellmedcare.com/(react
-https://www.grazie.in/(mern)
-https://hometrackautomation.in/
-https://www.grazie.in/(mern)
